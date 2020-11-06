@@ -27,9 +27,9 @@ We have two three-hour sessions per day. Each session has the following routine:
 Note that due to the asynchronous and practise session components we do not plan coffee breaks, but please make sure to drink plenty of coffee and to snack.
 
 During the practice sessions, you have a choice of:
-- Working on the handouts. These mostly cover the same material as the videos, so if everything is clear you don't need to spend too much time on them
-                                                                                                       - Working on your own data. If you have textual data that is relevant to your own research, we recommend (and can help with) using this data to practice the techniques covered in this workshop.
-                                                                                                       - Expanding on the handouts. There are many choices that you can make at various steps in the analysis process (e.g., preprocessing, hyperparameters), and it's important to learn how these choices affect your results. Try changing parts of the code to see what happens.
+ - Working on the handouts. These mostly cover the same material as the videos, so if everything is clear you don't need to spend too much time on them
+ - Working on your own data. If you have textual data that is relevant to your own research, we recommend (and can help with) using this data to practice the techniques covered in this workshop.
+ - Expanding on the handouts. There are many choices that you can make at various steps in the analysis process (e.g., preprocessing, hyperparameters), and it's important to learn how these choices affect your results. Try changing parts of the code to see what happens.
 
 
 ## Schedule and materials
