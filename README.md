@@ -11,7 +11,7 @@ If you are new to R, we have several videos and tutorial on our [R course materi
 The [Getting started](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_basics_1_getting_started.md) tutorial walks you through the installation, and helps you get some first hands-on experience. 
 To become more familiar with R, please first watch the [Fun with R](https://www.youtube.com/watch?v=eYCV8kIsgGs&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=2) and [Intro to R](https://www.youtube.com/watch?v=PVhZD5MINYM&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=1) videos. 
 
-Then, to become more proficient in R yourself, please complete some (or all) of the handouts in the [Data mangling in the tidyverse](https://github.com/ccs-amsterdam/r-course-material) section.
+Then, to become more proficient in R yourself, please complete some (or all) of the handouts in the [Data wrangling and visualization in the tidyverse](tidyverse.md) background material.
 A strong understanding of the `tidyverse` is not required for this workshop, but completing these tutorials is a good and productive way to become used to working with R and RStudio.
 As a bonus, the techniques discussed in these tutorials are among the most useful data science skills (though for text analysis we'll need other techniques, that will be covered in this workshop).
 
