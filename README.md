@@ -36,6 +36,10 @@ During the practice sessions, you have a choice of:
   
 ### Wednesday
 + **AM session: Quantitative text Analysis with Quanteda**
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 10 and 11
+    + [Welbers, Atteveldt & Benoit (2017, CMM) Text Analysis using R](http://vanatteveldt.com/p/welbers-text-r.pdf) 
+    + [Grimmer & Stewart (2013, PA) Text as Data](http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930
   + 9:00: Introductory video
     + [Quantitative Text Analysis](https://www.youtube.com/watch?v=O6CGXnxPHok&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=1)
     + [Advanced preprocessing](https://www.youtube.com/watch?v=tQoCjVat6UE&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=2)
@@ -46,23 +50,28 @@ During the practice sessions, you have a choice of:
     + [Basic String Handling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R-tidy-14-strings.md)
   + 11:30 - 12:00: Plenary session / Q&A
 + **PM session: Dictionary analysis and Sentiment Analysis**
-    + 13:00: Introductory video
-      + [Analysing Text](https://www.youtube.com/watch?v=bHa2CClBYFw&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=4)
-      + [Demo: Sentiment Analysis](https://www.youtube.com/watch?v=U0l5GB0i3uU&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=5)
-    + 14:00: Plenary session / Q&A
-    + 14:30: Supervised practice 
-      + [Lexical Sentiment Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/sentiment_analysis.md)
-    + 15:30 - 16:00: Plenary session / Q&A
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 11 and 12.1
+    + [Van Atteveldt, Velden & Boukes (2020), Automatic Sentiment Analysis](http://vanatteveldt.com/wp-content/uploads/atteveldt_sentiment.pdf) *(Under review - please do not distribute)*
+  + 13:00: Introductory video
+    + [Analysing Text](https://www.youtube.com/watch?v=bHa2CClBYFw&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=4)
+    + [Demo: Sentiment Analysis](https://www.youtube.com/watch?v=U0l5GB0i3uU&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=5)
+  + 14:00: Plenary session / Q&A
+  + 14:30: Supervised practice 
+    + [Lexical Sentiment Analysis](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/sentiment_analysis.md)
+  + 15:30 - 16:00: Plenary session / Q&A
 + **Additional material**
   + [Video: dealing with textual data](https://www.youtube.com/watch?v=ofOJiuaHV2w&list=PLjXODJ_lGN_V2ntvV2CN_GvzZ6Qm5km9L&index=8), 
-  + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 10 and 11
   + [NLP preprocessing in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_nlp.md)
-    
+  + [Scraping with rvest](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/rvest.md)
 
 ### Thursday
 + **AM session: LDA topic modeling**
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 12.3
+    + [Chang et al. (2009) Reading Tea Leaves: How Humans Interpret Topic Models](https://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models)
   + 9:00: Introductory video
-    + [Coming soon]
+    + [Topic Modeling with LDA](https://www.youtube.com/playlist?list=PLjXODJ_lGN_WtxhPsQ_t0aHtFAcsIh1-8) videos 1-3 (introduction, example, and fitting topic models in R)
   + 10:00: Plenary session / Q&A
   + 10:30: Supervised practice 
     + [LDA topic modeling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md)
@@ -70,7 +79,7 @@ During the practice sessions, you have a choice of:
   + 11:30 - 12:00: Plenary session / Q&A
 + **PM session: Technical details**
   + 13:00: Introductory video
-    + [Coming soon]
+    + [Topic Modeling with LDA](https://www.youtube.com/playlist?list=PLjXODJ_lGN_WtxhPsQ_t0aHtFAcsIh1-8)  videos 4-6 (dimensionality reduction, dirichlet distribution, estimating parameters)
   + 14:00: Plenary session / Q&A
   + 14:30: Supervised practice
       + Play around more with LDA (possibly using your own data)
@@ -81,21 +90,25 @@ During the practice sessions, you have a choice of:
         + [Understanding the alpha parameter](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/understanding_alpha.md)
         + [Singular value decomposition](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/SVD.md)
     + 15:30 - 16:00: Plenary session / Q&A
-+ **Additional material**
-  + [Welbers, Atteveldt & Benoit (2017, CMM) Text Analysis in R](http://vanatteveldt.com/p/welbers-text-r.pdf) 
-  + [Grimmer & Stewart (2013, PA) Text as Data](http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930/grimmer_and_stewart_2012.pdf)
   
   
 ### Friday
 + **AM session: Structural Topic Models (STM)**
+  + Preparation / background reading:
+    + [Structural Topic Modeling Vignette](https://github.com/bstewart/stm/blob/master/vignettes/stmVignette.pdf?raw=true) (see also [www.structuraltopicmodel.com](http://www.structuraltopicmodel.com))
   + 9:00: Introductory video
-    + [Coming soon]
+    + [Variants of Topic Models](https://www.youtube.com/watch?v=3rqkSqKp85s&list=PLjXODJ_lGN_U02yQyZG5YpBgseVpiS9s2&index=2&t=0s) [Structural Topic Models](https://www.youtube.com/watch?v=37yvQdQw5j8&list=PLjXODJ_lGN_U02yQyZG5YpBgseVpiS9s2&index=2)
   + 10:00: Plenary session / Q&A
   + 10:30: Supervised practice 
     + [STM quick start](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)
     + [STM vignette](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf)
   + 11:30 - 12:00: Plenary session / Q&A
 + **PM session: Supervised Machine learning**
+  + Preparation / background reading:
+    + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 9 and 12.2
+    + [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/), esp. [chapter 4](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
+    + [Neural Network Methods in NLP](https://www.amazon.nl/Network-Methods-Natural-Language-Processing/dp/1627052984) (really nice and relatively readable intro to deep learnign)
+    + [Foundations of Statistical NLP](https://www.amazon.com/exec/obidos/ASIN/0262133601) (old but still good background)
   + 13:00: Introductory video
     + [Coming soon]
   + 14:00: Plenary session / Q&A
@@ -103,7 +116,6 @@ During the practice sessions, you have a choice of:
     + [Supervised machine learning in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_ml.md)
   + 15:30 - 16:00: Plenary session / Q&A
 + **Additional material**
-  + [stm vignette](https://cran.r-project.org/web/packages/stm/vignettes/stmVignette.pdf)
   + [caret vignette](https://cran.r-project.org/web/packages/caret/vignettes/caret.html)
   + [3Blue1Brown video series on neural networks](https://www.3blue1brown.com/neural-networks)
 
