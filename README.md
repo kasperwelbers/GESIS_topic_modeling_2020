@@ -39,7 +39,7 @@ During the practice sessions, you have a choice of:
   + Preparation / background reading:
     + [Computational Analysis of Communication](http://cssbook.net/cssbook_draft.pdf) chapters 10 and 11
     + [Welbers, Atteveldt & Benoit (2017, CMM) Text Analysis using R](http://vanatteveldt.com/p/welbers-text-r.pdf) 
-    + [Grimmer & Stewart (2013, PA) Text as Data](http://www.collingwoodresearch.com/uploads/8/3/6/0/8360930)
+    + [Grimmer & Stewart (2013, PA) Text as Data](https://sci-hub.do/https://doi.org/10.1093/pan/mps028)
   + 9:00: Introductory video
     + [Quantitative Text Analysis](https://www.youtube.com/watch?v=O6CGXnxPHok&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=1)
     + [Advanced preprocessing](https://www.youtube.com/watch?v=tQoCjVat6UE&list=PL-i7GM-A1wBZYRYTpem7hNVHK3hSV_1It&index=2)
