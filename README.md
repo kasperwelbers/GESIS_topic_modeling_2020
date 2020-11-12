@@ -72,6 +72,7 @@ During the practice sessions, you have a choice of:
     + [Chang et al. (2009) Reading Tea Leaves: How Humans Interpret Topic Models](https://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models)
   + 9:00: Introductory video
     + [Topic Modeling with LDA](https://www.youtube.com/playlist?list=PLjXODJ_lGN_WtxhPsQ_t0aHtFAcsIh1-8) videos 1-3 (introduction, example, and fitting topic models in R)
+    + [Demo: LDA topic modeling](https://www.youtube.com/watch?v=4YyoMGv1nkc&feature=youtu.be)
   + 10:00: Plenary session / Q&A
   + 10:30: Supervised practice 
     + [LDA topic modeling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md)
