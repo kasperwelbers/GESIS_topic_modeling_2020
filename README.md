@@ -111,7 +111,7 @@ During the practice sessions, you have a choice of:
     + [Neural Network Methods in NLP](https://www.amazon.nl/Network-Methods-Natural-Language-Processing/dp/1627052984) (really nice and relatively readable intro to deep learnign)
     + [Foundations of Statistical NLP](https://www.amazon.com/exec/obidos/ASIN/0262133601) (old but still good background)
   + 13:00: Introductory video
-    + [Coming soon]
+    + [Supervised Machine Learning](https://www.youtube.com/playlist?list=PLjXODJ_lGN_XdMBgyscXHXuSB81zUoXCR)
   + 14:00: Plenary session / Q&A
   + 14:30: Supervised practice
     + [Supervised machine learning in R](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_ml.md)
